@@ -1,0 +1,1 @@
+print(10pip install streamlit opencv-python pandas requests)
